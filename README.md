@@ -1,27 +1,18 @@
-# AngularStaticScully
+# Cómo Hacer Una Web Estática Con Angular 12+ y Scully Para SEO
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
+Guía de introducción para sacarle las ventajas al framework Angular y posicionar con SEO páginas estáticas generadas con Scully.io manteniendo la funcionalidad de la WebApp!
 
-## Development server
+Hola,
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Quiero hacer una aplicación web estática con Angular con el objetivo de que pueda ser indexada por Google y tener algo de SEO.
 
-## Code scaffolding
+En el post del siguiente link hago el proceso y en este repo está el código de lo que se hizo.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Disfrutarlo ;)
 
-## Build
+LINK
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Sinceramente,
 
-## Running unit tests
+**Julio Flores**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
